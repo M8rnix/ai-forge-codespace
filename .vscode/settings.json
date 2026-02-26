@@ -1,0 +1,7 @@
+{
+    "workbench.startupEditor": "agentSessionsWelcomePage",
+    "workbench.iconTheme": "vscode-icons",
+    "chat.agent.enabled": true,
+    "chat.customAgentInSubagent.enabled": true,
+    //"markdown.extension.preview.autoShowPreviewToSide": true 
+}

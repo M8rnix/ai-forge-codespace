@@ -1,0 +1,42 @@
+﻿{
+  "name": "Copilot Forge Codespace",
+  "image": "mcr.microsoft.com/devcontainers/dotnet:10.0",
+  "features": {
+    "ghcr.io/devcontainers/features/github-cli:1": {}
+  },
+  "postCreateCommand": "bash .devcontainer/install-forge-extension.sh",
+  "customizations": { 
+    "codespaces": {
+      "repositories": {
+        "Cegeka-Application-Services/Cegeka.Copilot-Forge": {
+          "permissions": {
+            "contents": "read"
+          }
+        }
+      }
+    },
+    "vscode": {
+      "extensions": [ 
+        "vscode-icons-team.vscode-icons",
+        "ms-dotnettools.vscode-dotnet-runtime",
+        "ms-dotnettools.csharp",           
+        "ms-dotnettools.csdevkit",
+        "GitHub.copilot-chat",
+        "GitHub.vscode-pull-request-github"
+      ],
+      "settings": { 
+        "workbench.startupEditor": "agentSessionsWelcomePage", 
+        "workbench.iconTheme": "vscode-icons",
+        "chat.agent.enabled": true,
+        "chat.customAgentInSubagent.enabled": true
+        // EASTER EGG
+        //  +---------------------------------+
+        //  | +-----------------------------+ |
+        //  | |          NICE FIND          | |
+        //  | +-----------------------------+ |
+        //  +---------------------------------+
+        //        Now get back to work!
+      }
+    }
+  }
+}
