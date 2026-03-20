@@ -1,0 +1,15 @@
+/workspaces/ai-forge-codespace/src/HelloForge/bin/Debug/net10.0/HelloForge
+/workspaces/ai-forge-codespace/src/HelloForge/bin/Debug/net10.0/HelloForge.deps.json
+/workspaces/ai-forge-codespace/src/HelloForge/bin/Debug/net10.0/HelloForge.runtimeconfig.json
+/workspaces/ai-forge-codespace/src/HelloForge/bin/Debug/net10.0/HelloForge.dll
+/workspaces/ai-forge-codespace/src/HelloForge/bin/Debug/net10.0/HelloForge.pdb
+/workspaces/ai-forge-codespace/src/HelloForge/obj/Debug/net10.0/HelloForge.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ai-forge-codespace/src/HelloForge/obj/Debug/net10.0/HelloForge.AssemblyInfoInputs.cache
+/workspaces/ai-forge-codespace/src/HelloForge/obj/Debug/net10.0/HelloForge.AssemblyInfo.cs
+/workspaces/ai-forge-codespace/src/HelloForge/obj/Debug/net10.0/HelloForge.csproj.CoreCompileInputs.cache
+/workspaces/ai-forge-codespace/src/HelloForge/obj/Debug/net10.0/HelloForge.sourcelink.json
+/workspaces/ai-forge-codespace/src/HelloForge/obj/Debug/net10.0/HelloForge.dll
+/workspaces/ai-forge-codespace/src/HelloForge/obj/Debug/net10.0/refint/HelloForge.dll
+/workspaces/ai-forge-codespace/src/HelloForge/obj/Debug/net10.0/HelloForge.pdb
+/workspaces/ai-forge-codespace/src/HelloForge/obj/Debug/net10.0/HelloForge.genruntimeconfig.cache
+/workspaces/ai-forge-codespace/src/HelloForge/obj/Debug/net10.0/ref/HelloForge.dll
